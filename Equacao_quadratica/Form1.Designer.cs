@@ -155,9 +155,8 @@
             this.lbl_delta.ForeColor = System.Drawing.Color.PaleTurquoise;
             this.lbl_delta.Location = new System.Drawing.Point(86, 297);
             this.lbl_delta.Name = "lbl_delta";
-            this.lbl_delta.Size = new System.Drawing.Size(23, 24);
+            this.lbl_delta.Size = new System.Drawing.Size(0, 24);
             this.lbl_delta.TabIndex = 8;
-            this.lbl_delta.Text = "A";
             // 
             // lbl_x1
             // 
@@ -166,9 +165,8 @@
             this.lbl_x1.ForeColor = System.Drawing.Color.PaleTurquoise;
             this.lbl_x1.Location = new System.Drawing.Point(295, 297);
             this.lbl_x1.Name = "lbl_x1";
-            this.lbl_x1.Size = new System.Drawing.Size(23, 24);
+            this.lbl_x1.Size = new System.Drawing.Size(0, 24);
             this.lbl_x1.TabIndex = 10;
-            this.lbl_x1.Text = "A";
             // 
             // label7
             // 
@@ -188,9 +186,8 @@
             this.lbl_x2.ForeColor = System.Drawing.Color.PaleTurquoise;
             this.lbl_x2.Location = new System.Drawing.Point(295, 339);
             this.lbl_x2.Name = "lbl_x2";
-            this.lbl_x2.Size = new System.Drawing.Size(23, 24);
+            this.lbl_x2.Size = new System.Drawing.Size(0, 24);
             this.lbl_x2.TabIndex = 12;
-            this.lbl_x2.Text = "A";
             // 
             // label8
             // 
